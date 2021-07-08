@@ -10,3 +10,7 @@
 body{
     background-color: lightsteelblue;
 }
+img{
+    border-radius: 45px;
+    width: 20%;
+}
