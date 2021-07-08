@@ -9,6 +9,7 @@
 }
 body{
     background-color: lightsteelblue;
+    border-radius: 2px;
 }
 img{
     border-radius: 45px;
