@@ -1,13 +1,13 @@
 # My pet
 #### This is a page about my pet,08/07/2021
-#### By **{Shalin Rono}**
+#### By **Shalin Rono**
 ## Description
-{This is about my pet.My pet is a white puppy which I named it Mery.In this web page I have outlined everything that you need to know about my pet.
-I usually consider my pet as my bestfriend }
+This is about my pet.My pet is a white puppy which I named it Mery.In this web page I have outlined everything that you need to know about my pet.
+I usually consider my pet as my bestfriend.
 ## Setup/Installation Requirements
 * Have a browser installed
 * Have Visual Studio Code installed
-* Have knowledge soft skills on how to access the terminal 
+* Have knowledge on how to access the terminal 
 ## Known Bugs
 There are no known bugs at the moment
 ## Technologies Used
