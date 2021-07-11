@@ -12,7 +12,9 @@ I usually consider my pet as my bestfriend.
 There are no known bugs at the moment
 ## Technologies Used
  HTML
+ 
  CSS
+ 
 ## Support and contact details
 Reach out to me at ronoshalin@gmail.com
 ### License
